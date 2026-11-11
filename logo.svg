@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96" role="img" aria-label="N monogram">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffb877"/>
+      <stop offset="1" stop-color="#f0431c"/>
+    </linearGradient>
+  </defs>
+  <rect width="96" height="96" rx="28" fill="url(#g)"/>
+  <path d="M30 68V30L64 68V30" fill="none" stroke="#fff" stroke-width="8.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(79 18)" fill="#fff" opacity=".9">
+    <ellipse cx="0" cy="-4.4" rx="2.4" ry="4.4"/>
+    <ellipse cx="0" cy="-4.4" rx="2.4" ry="4.4" transform="rotate(72)"/>
+    <ellipse cx="0" cy="-4.4" rx="2.4" ry="4.4" transform="rotate(144)"/>
+    <ellipse cx="0" cy="-4.4" rx="2.4" ry="4.4" transform="rotate(216)"/>
+    <ellipse cx="0" cy="-4.4" rx="2.4" ry="4.4" transform="rotate(288)"/>
+    <circle r="1.7" fill="#ffd36b"/>
+  </g>
+</svg>
